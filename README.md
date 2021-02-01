@@ -16,7 +16,8 @@
   [Questions](#Questions)
   
 ## Description
-  This is an application created by following the Udemy Ruby on Rails instructional series by Rob Percival and Mashrur Hossain. The purpose of this exercise is .
+  This is an application created by following the Udemy Ruby on Rails instructional series by Rob Percival and Mashrur Hossain. The purpose of this exercise is to Create a dictionary (hash) with 10 city names, where the city name(key) will be a string, and the area code would be the value. Get input from the user on the city name(key) and return the zip code(value) or get zip code(value) input from the user to then return the city name(key).
+  
 ## Installation
   Simply clone the repo locally.
 
